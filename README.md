@@ -5,7 +5,7 @@
 
 # 👋 Merhaba, ben Fazıl Can Akbaş  
 
-**React Native / Full-Stack Mobile Developer** · Antalya, Türkiye  
+**React Native / Full-Stack Developer** · Antalya, Türkiye  
 Mobil uygulama ve web sitesi geliştirme ile uğraşıyorum.
 
 ---
