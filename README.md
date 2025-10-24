@@ -36,7 +36,7 @@ Mobil uygulama ve web sitesi geliştirme ile uğraşıyorum.
 - 🏗️ **Havacılar A.Ş. Kurumsal Web Sitesi**  
 - 💍 **ilkalbüm.com** — Düğün & Nişan Çekimi Web Sitesi  
 - 🏡 **villasantalya.com** — Emlak ilan girişleri (kullanıcı/rol bazlı danışman-admin ilişkisi)  
-- 🧪 **ozelhavuzkimya.com** — Havuz Kimyası Ürün Web Sitesi  
+- 🧪 **ozelhavuz.com.tr** — Havuz Kimyası Ürün Web Sitesi  
 - 🪑 **mazannemobilya.com** — Mobilya Satış Web Sitesi  
 - 🏛️ **Döşemealtı Belediyesi Resmi Web Sitesi**  
 - 👔 **Menderes Dal (Döşemealtı Belediye Başkanı) Resmi Web Sitesi**  
