@@ -28,16 +28,18 @@ Mobil uygulama ve web sitesi geliştirme ile uğraşıyorum.
 ## 🔭 Şu an üzerinde çalışıyorum  
 
 - 🏙️ **HepAntalya** — şehir süperapp  
-  > Kullanıcı akışları, nöbetçi eczaneler, cüzdan sistemi, iş-işçi, ilan sistemi, Heptaksi & HepYemek entegrasyonları, harita modülleri.  
-- 🇨🇾 **HepKıbrıs** — şehir süperapp  
+  > Kullanıcı akışları, nöbetçi eczaneler, cüzdan sistemi, qr ile ödeme yapma-alma, iş-işçi ilanı, eşya-ev-araba ilan sistemi, haber paylaşımları, yorumlar, beğeniler, mekanlar, kampanyalar, kurumsal sistem abonelikleri, cep trafik, HepTur, acil veteriner, hava durumu ve döviz kurları, şehir rehberi, harita modülleri, HepTaksi & HepYemek & AntalyaKart entegrasyonları.  
+- 🏙️ **HepKıbrıs** — şehir süperapp  
 - 🌐 **hepantalya.com** — HepAntalya Uygulamasının Web Sitesi  
-- 🎓 **Havacılar Eğitim A.Ş.** — Ödeme ve Randevu Sistemleri  
-- 🏢 **Havacılar Gayrimenkul Yatırım Web Sitesi**  
-- 🏗️ **Havacılar A.Ş. Kurumsal Web Sitesi**  
+- 🎓 **Havacılar Eğitim A.Ş.** — Web Sitesi,Ödeme ve Randevu Sistemleri  
+- 🏢 **Havacılar Gayrimenkul Yatırım Web Sitesi**
+- 🛫 **Havacılar Teknik A.Ş.** - Uçak Bakım Şirketi Web Sitesi
+- 🏗️ **Havacılar Group Kurumsal Web Sitesi**  
 - 💍 **ilkalbüm.com** — Düğün & Nişan Çekimi Web Sitesi  
 - 🏡 **villasantalya.com** — Emlak ilan girişleri (kullanıcı/rol bazlı danışman-admin ilişkisi)  
 - 🧪 **ozelhavuz.com.tr** — Havuz Kimyası Ürün Web Sitesi  
-- 🪑 **mazannemobilya.com** — Mobilya Satış Web Sitesi  
+- 🪑 **mazannemobilya.com** — Mobilya Satış Web Sitesi
+- 🧳 **rudblu.com** - Rud Blu Suit Otel Web Sitesi
 - 🏛️ **Döşemealtı Belediyesi Resmi Web Sitesi**  
 - 👔 **Menderes Dal (Döşemealtı Belediye Başkanı) Resmi Web Sitesi**  
 - 🏨 **QHotelier** — Oteller için AI Otel Asistanı Mobil Uygulaması ve Web Sitesi  
