@@ -36,7 +36,7 @@ Mobil uygulama ve web sitesi geliştirme ile uğraşıyorum.
 - 🛫 **Havacılar Teknik A.Ş.** - Uçak Bakım Şirketi Web Sitesi
 - 🏗️ **Havacılar Group Kurumsal Web Sitesi**  
 - 💍 **ilkalbüm.com** — Düğün & Nişan Çekimi Web Sitesi  
-- 🏡 **villasantalya.com** — Emlak ilan girişleri (kullanıcı/rol bazlı danışman-admin ilişkisi)  
+- 🏡 **villasantalya.com** — Emlak ilan girişleri (kullanıcı/rol bazlı danışman-emlak ilişkisi)  
 - 🧪 **ozelhavuz.com.tr** — Havuz Kimyası Ürün Web Sitesi  
 - 🪑 **mazannemobilya.com** — Mobilya Satış Web Sitesi
 - 🧳 **rudblu.com** - Rud Blu Suit Otel Web Sitesi
